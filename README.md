@@ -22,4 +22,4 @@ TODO:
 - improved examples for exporting/generating
 - automatically save checkpoint to drive and run inference example every epoch
 
-any bugs, questions, or feature requests - I'm [@bleepybloops](https://twitter.com/bleepybloops) on twitter/X and `lyraaaa` on discord. 
+for any bugs, questions, or feature requests - I'm [@bleepybloops](https://twitter.com/bleepybloops) on twitter/X and `lyraaaa` on discord. 
