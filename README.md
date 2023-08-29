@@ -14,3 +14,10 @@ Notebook features:
 - Examples for exporting `.bin` files and loading them into musicgen for inference
 - Examples for various types of generating (unconditional, text guided, continuations, multiband diffusion)
 - Instructions on environment setup for local finetuning
+
+TODO:
+- modify and train from scratch to support using [descript](https://github.com/descriptinc/descript-audio-codec) instead of encodec, allowing generations in 44.1khz stereo
+- add GPT-powered enhancement to the autolabeller
+- use a song lookup API to automatically label the artist and song name in the labeller
+- improved examples for exporting/generating
+- automatically save checkpoint to drive and run inference example every epoch
