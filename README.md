@@ -23,3 +23,5 @@ TODO:
 - automatically save checkpoint to drive and run inference example every epoch
 
 for any bugs, questions, or feature requests - I'm [@bleepybloops](https://twitter.com/bleepybloops) on twitter/X and `lyraaaa` on discord. 
+
+licensing: go ahead and use code from this if you like, credit is cool but optional
